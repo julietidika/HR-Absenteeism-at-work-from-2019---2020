@@ -64,6 +64,8 @@ TREND ANALYSIS
 VISUALIZATION
 
 Exported the sorted and manipulated dataset to a CSV file into a Power BI. Within Power query, redefined the datasets and grouped each employee by hours of Absenteeism, Body Mass Index, number of reasons they gave for being absent and how often were those reasons given using Data Analysis Express (DAX). Utilized Power BI to visualize data and generate meaningful charts and graphs.
+
+
 RECOMMENDATIONS 
 
 Employee Engagement Survey: Conduct an employee engagement session to understand employee perceptions, job satisfaction, and work-life balance as these can provide valuable insights into the reasons behind health-related absenteeism.
